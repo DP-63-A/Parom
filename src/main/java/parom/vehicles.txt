@@ -1,0 +1,6 @@
+car,10,1500
+truck,30,5000
+motorcycle,5,500
+van,15,2500
+car,10,1400
+truck,35,6000
