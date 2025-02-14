@@ -1,0 +1,154 @@
+2025-01-30 06:40:52,100 ERROR p.ParomApp [main] Error reading input file
+java.nio.file.NoSuchFileException: vehicles.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420) ~[?:?]
+	at java.nio.file.Files.newInputStream(Files.java:159) ~[?:?]
+	at java.nio.file.Files.newBufferedReader(Files.java:2897) ~[?:?]
+	at java.nio.file.Files.readAllLines(Files.java:3392) ~[?:?]
+	at java.nio.file.Files.readAllLines(Files.java:3433) ~[?:?]
+	at parom.ParomApp.main(ParomApp.java:22) [classes/:?]
+2025-01-30 06:41:49,225 ERROR p.ParomApp [main] Error reading input file
+java.nio.file.NoSuchFileException: src.main.resources.vehicles.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420) ~[?:?]
+	at java.nio.file.Files.newInputStream(Files.java:159) ~[?:?]
+	at java.nio.file.Files.newBufferedReader(Files.java:2897) ~[?:?]
+	at java.nio.file.Files.readAllLines(Files.java:3392) ~[?:?]
+	at java.nio.file.Files.readAllLines(Files.java:3433) ~[?:?]
+	at parom.ParomApp.main(ParomApp.java:22) [classes/:?]
+2025-01-30 06:42:36,727 ERROR p.ParomApp [main] Error reading input file
+java.nio.file.NoSuchFileException: vehicles.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420) ~[?:?]
+	at java.nio.file.Files.newInputStream(Files.java:159) ~[?:?]
+	at java.nio.file.Files.newBufferedReader(Files.java:2897) ~[?:?]
+	at java.nio.file.Files.readAllLines(Files.java:3392) ~[?:?]
+	at java.nio.file.Files.readAllLines(Files.java:3433) ~[?:?]
+	at parom.ParomApp.main(ParomApp.java:22) [classes/:?]
+2025-01-30 06:50:01,318 ERROR p.ParomApp [main] Error reading input file
+java.nio.file.NoSuchFileException: C:\Users\morji\IdeaProjects\WD\Parom\vehicles.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420) ~[?:?]
+	at java.nio.file.Files.newInputStream(Files.java:159) ~[?:?]
+	at java.nio.file.Files.newBufferedReader(Files.java:2897) ~[?:?]
+	at java.nio.file.Files.readAllLines(Files.java:3392) ~[?:?]
+	at java.nio.file.Files.readAllLines(Files.java:3433) ~[?:?]
+	at parom.ParomApp.main(ParomApp.java:22) [classes/:?]
+2025-01-30 06:51:08,728 ERROR p.ParomApp [main] Error reading input file
+java.nio.file.NoSuchFileException: C:\Users\morji\IdeaProjects\WD\Parom\vehicles.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420) ~[?:?]
+	at java.nio.file.Files.newInputStream(Files.java:159) ~[?:?]
+	at java.nio.file.Files.newBufferedReader(Files.java:2897) ~[?:?]
+	at java.nio.file.Files.readAllLines(Files.java:3392) ~[?:?]
+	at java.nio.file.Files.readAllLines(Files.java:3433) ~[?:?]
+	at parom.ParomApp.main(ParomApp.java:22) [classes/:?]
+2025-01-30 06:51:53,713 ERROR p.ParomApp [main] Error reading input file
+java.nio.file.NoSuchFileException: C:\Users\morji\IdeaProjects\WD\Parom\vehicles.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420) ~[?:?]
+	at java.nio.file.Files.newInputStream(Files.java:159) ~[?:?]
+	at java.nio.file.Files.newBufferedReader(Files.java:2897) ~[?:?]
+	at java.nio.file.Files.readAllLines(Files.java:3392) ~[?:?]
+	at java.nio.file.Files.readAllLines(Files.java:3433) ~[?:?]
+	at parom.ParomApp.main(ParomApp.java:22) [classes/:?]
+2025-01-30 10:37:04,990 ERROR p.ParomApp [main] Error reading input file
+java.nio.file.NoSuchFileException: C:\Users\morji\IdeaProjects\WD\Parom\vehicles.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420) ~[?:?]
+	at java.nio.file.Files.newInputStream(Files.java:159) ~[?:?]
+	at java.nio.file.Files.newBufferedReader(Files.java:2897) ~[?:?]
+	at java.nio.file.Files.readAllLines(Files.java:3392) ~[?:?]
+	at java.nio.file.Files.readAllLines(Files.java:3433) ~[?:?]
+	at parom.ParomApp.main(ParomApp.java:24) [classes/:?]
+2025-01-30 10:37:41,358 ERROR p.ParomApp [main] Error reading input file
+java.nio.file.NoSuchFileException: C:\Users\morji\IdeaProjects\WD\parom\vehicles.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
+	at java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420) ~[?:?]
+	at java.nio.file.Files.newInputStream(Files.java:159) ~[?:?]
+	at java.nio.file.Files.newBufferedReader(Files.java:2897) ~[?:?]
+	at java.nio.file.Files.readAllLines(Files.java:3392) ~[?:?]
+	at java.nio.file.Files.readAllLines(Files.java:3433) ~[?:?]
+	at parom.ParomApp.main(ParomApp.java:24) [classes/:?]
+2025-01-30 10:40:01,548 WARN p.s.LoadingStatus [pool-2-thread-2] Vehicle truck cannot be loaded due to space/weight constraints
+2025-01-30 10:40:01,551 INFO p.s.LoadingStatus [pool-2-thread-3] Vehicle motorcycle loaded onto the ferry
+2025-01-30 10:40:01,552 WARN p.s.LoadingStatus [pool-2-thread-1] Vehicle car cannot be loaded due to space/weight constraints
+2025-01-30 10:40:01,553 WARN p.s.LoadingStatus [pool-2-thread-4] Vehicle van cannot be loaded due to space/weight constraints
+2025-01-30 10:40:01,553 WARN p.s.LoadingStatus [pool-2-thread-5] Vehicle car cannot be loaded due to space/weight constraints
+2025-01-30 10:40:01,554 WARN p.s.LoadingStatus [pool-2-thread-6] Vehicle truck cannot be loaded due to space/weight constraints
+2025-01-30 10:59:29,871 INFO p.s.LoadingStatus [pool-2-thread-3] Vehicle motorcycle loaded onto the ferry
+2025-01-30 10:59:29,875 WARN p.s.LoadingStatus [pool-2-thread-1] Vehicle car cannot be loaded due to space/weight constraints
+2025-01-30 10:59:29,875 WARN p.s.LoadingStatus [pool-2-thread-2] Vehicle truck cannot be loaded due to space/weight constraints
+2025-01-30 10:59:29,876 WARN p.s.LoadingStatus [pool-2-thread-4] Vehicle van cannot be loaded due to space/weight constraints
+2025-01-30 10:59:29,876 WARN p.s.LoadingStatus [pool-2-thread-5] Vehicle car cannot be loaded due to space/weight constraints
+2025-01-30 10:59:29,876 WARN p.s.LoadingStatus [pool-2-thread-6] Vehicle truck cannot be loaded due to space/weight constraints
+2025-01-30 11:00:20,476 WARN p.s.LoadingStatus [pool-2-thread-2] Vehicle truck cannot be loaded due to space/weight constraints
+2025-01-30 11:00:20,482 INFO p.s.LoadingStatus [pool-2-thread-3] Vehicle motorcycle loaded onto the ferry
+2025-01-30 11:00:20,482 INFO p.s.LoadingStatus [pool-2-thread-1] Vehicle car loaded onto the ferry
+2025-01-30 11:00:20,484 WARN p.s.LoadingStatus [pool-2-thread-4] Vehicle van cannot be loaded due to space/weight constraints
+2025-01-30 11:00:20,484 INFO p.s.LoadingStatus [pool-2-thread-5] Vehicle car loaded onto the ferry
+2025-01-30 11:00:20,485 WARN p.s.LoadingStatus [pool-2-thread-6] Vehicle truck cannot be loaded due to space/weight constraints
+2025-01-30 11:04:05,068 INFO p.s.LoadingStatus [pool-2-thread-1] Vehicle car loaded on board the parom
+2025-01-30 11:04:05,072 WARN p.s.LoadingStatus [pool-2-thread-6] Vehicle truck cannot be loaded due to capacity/weight constraints
+2025-01-30 11:04:05,072 INFO p.s.LoadingStatus [pool-2-thread-3] Vehicle motorcycle loaded on board the parom
+2025-01-30 11:04:05,073 WARN p.s.LoadingStatus [pool-2-thread-4] Vehicle van cannot be loaded due to capacity/weight constraints
+2025-01-30 11:04:05,074 INFO p.s.LoadingStatus [pool-2-thread-5] Vehicle car loaded on board the parom
+2025-01-30 11:04:05,074 WARN p.s.LoadingStatus [pool-2-thread-2] Vehicle truck cannot be loaded due to capacity/weight constraints
+2025-01-30 11:04:41,001 INFO p.s.LoadingStatus [pool-2-thread-1] car loaded on board the parom
+2025-01-30 11:04:41,005 INFO p.s.LoadingStatus [pool-2-thread-3] motorcycle loaded on board the parom
+2025-01-30 11:04:41,005 WARN p.s.LoadingStatus [pool-2-thread-2] truck cannot be loaded due to capacity/weight constraints
+2025-01-30 11:04:41,006 WARN p.s.LoadingStatus [pool-2-thread-4] van cannot be loaded due to capacity/weight constraints
+2025-01-30 11:04:41,007 WARN p.s.LoadingStatus [pool-2-thread-6] truck cannot be loaded due to capacity/weight constraints
+2025-01-30 11:04:41,007 INFO p.s.LoadingStatus [pool-2-thread-5] car loaded on board the parom
+2025-01-30 11:06:17,713 INFO p.s.LoadingStatus [pool-2-thread-4] van loaded on board the parom
+2025-01-30 11:06:17,716 INFO p.s.LoadingStatus [pool-2-thread-3] motorcycle loaded on board the parom
+2025-01-30 11:06:17,717 WARN p.s.LoadingStatus [pool-2-thread-1] car cannot be loaded due to capacity/weight constraints
+2025-01-30 11:06:17,717 WARN p.s.LoadingStatus [pool-2-thread-2] truck cannot be loaded due to capacity/weight constraints
+2025-01-30 11:06:17,718 WARN p.s.LoadingStatus [pool-2-thread-5] car cannot be loaded due to capacity/weight constraints
+2025-01-30 11:06:17,719 WARN p.s.LoadingStatus [pool-2-thread-6] truck cannot be loaded due to capacity/weight constraints
+2025-01-30 11:06:33,321 WARN p.s.LoadingStatus [pool-2-thread-2] truck cannot be loaded due to capacity/weight constraints
+2025-01-30 11:06:33,323 INFO p.s.LoadingStatus [pool-2-thread-3] motorcycle loaded on board the parom
+2025-01-30 11:06:33,324 INFO p.s.LoadingStatus [pool-2-thread-1] car loaded on board the parom
+2025-01-30 11:06:33,324 INFO p.s.LoadingStatus [pool-2-thread-5] car loaded on board the parom
+2025-01-30 11:06:33,324 WARN p.s.LoadingStatus [pool-2-thread-4] van cannot be loaded due to capacity/weight constraints
+2025-01-30 11:06:33,326 WARN p.s.LoadingStatus [pool-2-thread-6] truck cannot be loaded due to capacity/weight constraints
